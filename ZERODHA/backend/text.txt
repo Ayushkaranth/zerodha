@@ -1,4 +1,0 @@
-mongodb+srv://2023ayushkaranth:ayush2005@zerodhaclonecluster.m2czn.mongodb.net/
-
-username:2023ayushkaranth
-password:ayush2005
